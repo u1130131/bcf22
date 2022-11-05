@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(135deg, rgb(103, 5, 39), #3a0647, rgb(5, 39, 103));
+    color: #ffffff;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+.content {
+    padding: 0.75rem;
+}
+
+h1 {
+    text-align: center !important;
+}
+
+hr {
+    margin: 2rem 0;
+}
+
+legend {
+    padding: 0 0.5rem;
+}
+
+h2 {
+    text-decoration: underline;
+    text-underline-position: auto;
+}
+
+.space-top, h2 {
+    margin-top: 2rem;
+}
+
+.no-indent {
+    margin-left: 0;
+}
+
+.bolder-text {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+p {
+    margin-left: 1.5rem;
+}
+
+h3 {
+    margin-left: 0.5rem;
+    margin-top: 2rem;
+}
+
+p, li {
+    color: #cccccc;
+}
